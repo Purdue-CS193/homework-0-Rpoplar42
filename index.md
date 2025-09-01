@@ -7,7 +7,7 @@ My favorite things about CS193
 - Learning how to make websites
 - Using terminals
 - Learning how to use proper syntax and look professional
-
+```
 
 
 ## Welcome to GitHub Pages
